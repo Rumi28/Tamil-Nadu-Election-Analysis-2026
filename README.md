@@ -5,7 +5,7 @@ A storytelling-focused analysis of the 2026 Tamil Nadu Assembly Election using o
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Tamil-Nadu-Election-2026-RPC.git
+git clone https://github.com/Rumi28/Tamil-Nadu-Election-Analysis-2026.git
 ```
 
 ---
@@ -57,9 +57,9 @@ These queries generate:
 
 ## 5. Power BI Dashboard
 
-Open:
+Open: https://app.powerbi.com/groups/me/reports/47091536-f4c6-49ee-b27f-8ef37c4fc774?pbi_source=desktop
 
-`PowerBI/TN_Election_Analysis.pbix`
+
 
 If visuals do not load automatically:
 
@@ -73,7 +73,7 @@ If visuals do not load automatically:
 Final stakeholder presentation is available in:
 
 `Presentation/TN_Election_Deck.pdf`
-
+https://docs.google.com/presentation/d/1vq3Aqe3YNJZ0yPYbwt8gEghV0cTDx-xU/edit?usp=drive_link&ouid=100905401349613843223&rtpof=true&sd=true
 ---
 
 ## 7. Key Stories Covered
